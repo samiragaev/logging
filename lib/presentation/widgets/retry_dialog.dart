@@ -229,6 +229,7 @@ class _RetryDialogState extends State<RetryDialog> {
                 ),
               ),
               SizedBox(height: ResponsiveHelper.getSpacing(context, 16)),
+
               Row(
                 mainAxisAlignment: MainAxisAlignment.end,
                 children: [
